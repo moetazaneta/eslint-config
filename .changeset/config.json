@@ -1,0 +1,13 @@
+{
+  "$schema": "https://unpkg.com/@changesets/config@1.6.1/schema.json",
+  "changelog": [
+    "@changesets/cli/changelog",
+    { "repo": "choi-moeta/eslint-config" }
+  ],
+  "commit": true,
+  "linked": [["@moeta/eslint-config-*"]],
+  "access": "restricted",
+  "baseBranch": "main",
+  "updateInternalDependencies": "patch",
+  "ignore": []
+}

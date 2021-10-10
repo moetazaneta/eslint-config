@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "@moeta/eslint-config-monorepo",
+  "version": "1.0.0",
+  "description": "@moeta/eslint-config-monorepo",
+  "license": "MIT",
+  "author": "moeta",
+  "devDependencies": {
+    "@changesets/cli": "^2.17.0",
+    "@moeta/eslint-config-base": "workspace:*",
+    "@moeta/eslint-config-ts": "workspace:*",
+    "@moeta/eslint-config-vue": "workspace:*",
+    "eslint": "^7.32.0"
+  }
+}
