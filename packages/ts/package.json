@@ -1,6 +1,6 @@
 {
   "name": "@moeta/eslint-config-ts",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "@moeta/eslint-config-ts",
   "license": "MIT",
   "author": "moeta",
