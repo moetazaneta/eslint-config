@@ -1,4 +1,3 @@
-// const base = require("@moeta/eslint-config-base")
 const base = require("@moeta/eslint-config-base")
 
 module.exports = {
