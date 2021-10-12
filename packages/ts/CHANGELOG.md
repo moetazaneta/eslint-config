@@ -1,5 +1,13 @@
 # @moeta/eslint-config-ts
 
+## 1.0.3
+
+### Patch Changes
+
+- 9de3392: update deps
+- Updated dependencies [9de3392]
+  - @moeta/eslint-config-base@1.0.3
+
 ## 1.0.2
 
 ### Patch Changes
