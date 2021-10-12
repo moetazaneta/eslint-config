@@ -1,5 +1,11 @@
 # @moeta/eslint-config-ts
 
+## 1.0.2
+
+### Patch Changes
+
+- ffa54f8: remove uneeded line
+
 ## 1.0.1
 
 ### Patch Changes
