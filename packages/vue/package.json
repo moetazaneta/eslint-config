@@ -5,10 +5,12 @@
   "license": "MIT",
   "author": "moeta",
   "main": "index.js",
-  "devDependencies": {
-    "eslint": "^7.32.0",
+  "dependencies": {
     "@moeta/eslint-config-ts": "workspace:*",
     "eslint-plugin-vue": "^7.19.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
   },
   "peerDependencies": {
     "eslint": "^7.32.0"

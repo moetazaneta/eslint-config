@@ -5,10 +5,7 @@
   "license": "MIT",
   "author": "moeta",
   "main": "index.js",
-  "devDependencies": {
-    "eslint": "^7.32.0",
-    "@typescript-eslint/eslint-plugin": "^4.33.0",
-    "@typescript-eslint/parser": "^4.33.0",
+  "dependencies": {
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-html": "^6.2.0",
@@ -19,8 +16,10 @@
     "eslint-plugin-unicorn": "^35.0.0",
     "eslint-plugin-yml": "^0.10.1",
     "jsonc-eslint-parser": "^1.4.1",
-    "typescript": "^4.4.3",
     "yaml-eslint-parser": "^0.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
   },
   "peerDependencies": {
     "eslint": "^7.32.0"
