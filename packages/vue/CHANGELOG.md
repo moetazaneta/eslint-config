@@ -1,5 +1,16 @@
 # @moeta/eslint-config-vue
 
+## 1.1.0
+
+### Minor Changes
+
+- 67a769b: change quotes style
+
+### Patch Changes
+
+- Updated dependencies [67a769b]
+  - @moeta/eslint-config-ts@1.1.0
+
 ## 1.0.3
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @moeta/eslint-config-base
 
+## 1.1.0
+
+### Minor Changes
+
+- 67a769b: change quotes style
+
 ## 1.0.3
 
 ### Patch Changes
