@@ -1,29 +1,30 @@
-const base = require("@moeta/eslint-config-base")
+const base = require('@moeta/eslint-config-base')
 
 module.exports = {
   extends: [
-    "@moeta/eslint-config-base",
-    "plugin:@typescript-eslint/recommended",
-    "plugin:import/typescript",
+    '@moeta/eslint-config-base',
+    'plugin:@typescript-eslint/recommended',
+    'plugin:import/typescript',
   ],
   overrides: base.overrides,
-  parser: "@typescript-eslint/parser",
+  parser: '@typescript-eslint/parser',
   plugins: [
-    "@typescript-eslint",
+    '@typescript-eslint',
   ],
   settings: {
-    "import/resolver": {
+    'import/resolver': {
       node: {
         extensions: [
-          ".js",
-          ".jsx",
-          ".ts",
-          ".tsx",
+          '.js',
+          '.jsx',
+          '.ts',
+          '.tsx',
         ],
       },
     },
   },
   rules: {
     "@typescript-eslint/no-explicit-any": "error",
+    '@typescript-eslint/no-explicit-any': 'error',
   },
 }
