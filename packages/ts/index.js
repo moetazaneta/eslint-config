@@ -24,7 +24,7 @@ module.exports = {
     },
   },
   rules: {
-    "@typescript-eslint/no-explicit-any": "error",
+    '@typescript-eslint/indent': ['error', 2],
     '@typescript-eslint/no-explicit-any': 'error',
   },
 }
