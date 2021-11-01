@@ -1,5 +1,11 @@
 # @moeta/eslint-config-base
 
+## 1.2.0
+
+### Minor Changes
+
+- 0413715: Apply lint, add indent rule for ts
+
 ## 1.1.0
 
 ### Minor Changes
