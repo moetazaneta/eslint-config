@@ -1,5 +1,12 @@
 # @moeta/eslint-config-vue
 
+## 1.3.0
+
+### Patch Changes
+
+- Updated dependencies [2370e1d]
+  - @moeta/eslint-config-ts@1.3.0
+
 ## 1.2.0
 
 ### Minor Changes
