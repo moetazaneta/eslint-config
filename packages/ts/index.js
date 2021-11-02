@@ -25,6 +25,12 @@ module.exports = {
   },
   rules: {
     '@typescript-eslint/indent': ['error', 2],
-    '@typescript-eslint/no-explicit-any': 'error',
+    '@typescript-eslint/no-explicit-any': 'warn',
+    '@typescript-eslint/brace-style': ['error', 'stroustrup', { allowSingleLine: true }],
+    '@typescript-eslint/member-delimiter-style': ['error', {
+      multiline: {
+        delimiter: 'none',
+      },
+    }],
   },
 }
